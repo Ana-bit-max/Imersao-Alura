@@ -1,2 +1,2 @@
-# Irmersao Alura
- Proejeto Spotify
+# Imersao Alura
+ Projeto Spotify
